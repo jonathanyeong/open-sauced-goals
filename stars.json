@@ -1,9 +1,9 @@
 [
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 22430,
-    "open_issues_count": 182,
-    "forks_count": 1146
+    "stargazers_count": 25296,
+    "open_issues_count": 249,
+    "forks_count": 1313
   },
   {
     "full_name": "drewclem/protege",
@@ -13,27 +13,27 @@
   },
   {
     "full_name": "ronakganatra/awesome-developer-marketing",
-    "stargazers_count": 94,
-    "open_issues_count": 1,
+    "stargazers_count": 96,
+    "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "surface-ui/surface",
-    "stargazers_count": 1515,
-    "open_issues_count": 24,
-    "forks_count": 95
+    "stargazers_count": 1533,
+    "open_issues_count": 25,
+    "forks_count": 96
   },
   {
     "full_name": "11ty/eleventy",
-    "stargazers_count": 10739,
-    "open_issues_count": 431,
-    "forks_count": 320
+    "stargazers_count": 10887,
+    "open_issues_count": 439,
+    "forks_count": 323
   },
   {
     "full_name": "foambubble/foam",
-    "stargazers_count": 10831,
-    "open_issues_count": 128,
-    "forks_count": 460
+    "stargazers_count": 11022,
+    "open_issues_count": 94,
+    "forks_count": 472
   },
   {
     "full_name": "jonathanyeong/personal-website",
@@ -49,57 +49,57 @@
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 36460,
-    "open_issues_count": 48,
-    "forks_count": 5316
+    "stargazers_count": 37241,
+    "open_issues_count": 50,
+    "forks_count": 5399
   },
   {
     "full_name": "HabitRPG/habitica",
-    "stargazers_count": 8643,
-    "open_issues_count": 214,
-    "forks_count": 3371
+    "stargazers_count": 8708,
+    "open_issues_count": 221,
+    "forks_count": 3380
   },
   {
     "full_name": "seattlerb/hoe",
     "stargazers_count": 275,
     "open_issues_count": 8,
-    "forks_count": 64
+    "forks_count": 65
   },
   {
     "full_name": "there4/markdown-resume",
-    "stargazers_count": 1653,
+    "stargazers_count": 1659,
     "open_issues_count": 18,
-    "forks_count": 526
+    "forks_count": 525
   },
   {
     "full_name": "vuejs/vuepress",
-    "stargazers_count": 19620,
-    "open_issues_count": 552,
-    "forks_count": 4271
+    "stargazers_count": 19742,
+    "open_issues_count": 511,
+    "forks_count": 4298
   },
   {
     "full_name": "gridsome/gridsome",
-    "stargazers_count": 7999,
-    "open_issues_count": 544,
-    "forks_count": 473
+    "stargazers_count": 8023,
+    "open_issues_count": 547,
+    "forks_count": 477
   },
   {
     "full_name": "gohugoio/hugo",
-    "stargazers_count": 55409,
-    "open_issues_count": 713,
-    "forks_count": 6294
+    "stargazers_count": 55942,
+    "open_issues_count": 716,
+    "forks_count": 6346
   },
   {
     "full_name": "probot/probot",
-    "stargazers_count": 7314,
-    "open_issues_count": 31,
-    "forks_count": 882
+    "stargazers_count": 7374,
+    "open_issues_count": 30,
+    "forks_count": 886
   },
   {
     "full_name": "nhn/tui.editor",
-    "stargazers_count": 13893,
-    "open_issues_count": 291,
-    "forks_count": 1310
+    "stargazers_count": 14026,
+    "open_issues_count": 277,
+    "forks_count": 1332
   },
   {
     "full_name": "whuang8/herp-derp",
@@ -109,21 +109,21 @@
   },
   {
     "full_name": "netlify/netlify-cms",
-    "stargazers_count": 14702,
-    "open_issues_count": 638,
-    "forks_count": 2581
+    "stargazers_count": 14780,
+    "open_issues_count": 632,
+    "forks_count": 2602
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 44174,
+    "stargazers_count": 44430,
     "open_issues_count": 2,
-    "forks_count": 6476
+    "forks_count": 6534
   },
   {
     "full_name": "octobox/octobox",
-    "stargazers_count": 4126,
-    "open_issues_count": 34,
-    "forks_count": 358
+    "stargazers_count": 4140,
+    "open_issues_count": 37,
+    "forks_count": 362
   },
   {
     "full_name": "maestrano/maestrano-connector-rails",
@@ -133,38 +133,38 @@
   },
   {
     "full_name": "yeoman/generator-angular",
-    "stargazers_count": 5823,
+    "stargazers_count": 5820,
     "open_issues_count": 90,
-    "forks_count": 1519
+    "forks_count": 1518
   },
   {
     "full_name": "engineerapart/TheRemoteFreelancer",
-    "stargazers_count": 6421,
-    "open_issues_count": 1,
-    "forks_count": 375
+    "stargazers_count": 6438,
+    "open_issues_count": 0,
+    "forks_count": 376
   },
   {
     "full_name": "thechangelog/changelog.com",
-    "stargazers_count": 2341,
-    "open_issues_count": 37,
-    "forks_count": 221
+    "stargazers_count": 2354,
+    "open_issues_count": 35,
+    "forks_count": 222
   },
   {
     "full_name": "quilljs/quill",
-    "stargazers_count": 31352,
-    "open_issues_count": 1165,
-    "forks_count": 2633
+    "stargazers_count": 31565,
+    "open_issues_count": 1175,
+    "forks_count": 2659
   },
   {
     "full_name": "ampproject/amphtml",
-    "stargazers_count": 14764,
-    "open_issues_count": 1778,
-    "forks_count": 3896
+    "stargazers_count": 14778,
+    "open_issues_count": 1768,
+    "forks_count": 3913
   },
   {
     "full_name": "SpinaCMS/Spina",
-    "stargazers_count": 1920,
-    "open_issues_count": 5,
+    "stargazers_count": 1928,
+    "open_issues_count": 6,
     "forks_count": 347
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "basecamp/trix",
-    "stargazers_count": 16499,
-    "open_issues_count": 60,
-    "forks_count": 974
+    "stargazers_count": 16548,
+    "open_issues_count": 62,
+    "forks_count": 982
   }
 ]
